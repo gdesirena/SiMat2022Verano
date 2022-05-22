@@ -1,4 +1,4 @@
-# Simulación Matemática - Primavera 2022
+# Simulación Matemática - Verano 2022
 En este repositorio se encuentran las notas para el curso de simulación matemática en el periodo de otoño del 2021.
 
 Este curso consiste de tres módulos. 
