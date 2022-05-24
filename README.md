@@ -7,12 +7,15 @@ Este curso consiste de tres módulos.
 
    1. ¿Qué es una simulación?
     - Introducción e instalación de software.
+
     - Uso de markdown.
+
     - ¿Qué es git?
-   2. Optimización de funciones de variable escalar con SymPy
-   3. Programación Lineal
-   4. Ajuste de curvas
-   5. Regresión logística
+   2. Repaso Python Librerías.
+   3. Optimización de funciones de variable escalar con SymPy
+   4. Programación Lineal
+   5. Ajuste de curvas
+   6. Regresión logística
    
 `Módulo 2.` **Montecarlo**
 
