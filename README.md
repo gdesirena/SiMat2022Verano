@@ -7,9 +7,7 @@ Este curso consiste de tres módulos.
 
    1. ¿Qué es una simulación?
     - Introducción e instalación de software.
-
     - Uso de markdown.
-
     - ¿Qué es git?
    2. Repaso Python Librerías.
    3. Optimización de funciones de variable escalar con SymPy
